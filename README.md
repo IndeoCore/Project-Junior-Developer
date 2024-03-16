@@ -1,4 +1,4 @@
-# Projeto-JuniorDeveloper
+# Project Junior Developer
 
 - Esse repositório tem como objetivo documentar a minha progressão como desenvolvedor júnior, para detalhar todo o meu processo e servir como ponto de partida na minha carreira como um desenvolvedor.
 
